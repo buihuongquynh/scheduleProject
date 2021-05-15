@@ -1,0 +1,11 @@
+D:\HK4\LTNET\DA\DA\bin\Debug\DA.exe.config
+D:\HK4\LTNET\DA\DA\bin\Debug\DA.exe
+D:\HK4\LTNET\DA\DA\bin\Debug\DA.pdb
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.csprojAssemblyReference.cache
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.Form1.resources
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.exe
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.pdb
+D:\HK4\LTNET\DA\DA\obj\Debug\DA.Form2.resources

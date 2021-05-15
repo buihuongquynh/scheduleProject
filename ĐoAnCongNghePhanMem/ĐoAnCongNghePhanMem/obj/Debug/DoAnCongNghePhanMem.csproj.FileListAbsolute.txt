@@ -1,0 +1,13 @@
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\bin\Debug\ĐoAnCongNghePhanMem.exe.config
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\bin\Debug\ĐoAnCongNghePhanMem.exe
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\bin\Debug\ĐoAnCongNghePhanMem.pdb
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\DoAnCongNghePhanMem.csprojAssemblyReference.cache
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.FrontEnd.ListSV.resources
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.FrontEnd.Form1.resources
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.FrontEnd.TableGV.resources
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.FrontEnd.TableSV.resources
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.Properties.Resources.resources
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\DoAnCongNghePhanMem.csproj.GenerateResource.cache
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\DoAnCongNghePhanMem.csproj.CoreCompileInputs.cache
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.exe
+C:\Users\buigi\OneDrive\Desktop\ĐoAnCongNghePhanMem\ĐoAnCongNghePhanMem\obj\Debug\ĐoAnCongNghePhanMem.pdb

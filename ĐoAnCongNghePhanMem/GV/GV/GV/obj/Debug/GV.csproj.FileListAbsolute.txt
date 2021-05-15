@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\DA\GV\GV\bin\Debug\GV.exe.config
+C:\Users\ADMIN\Documents\DA\GV\GV\bin\Debug\GV.exe
+C:\Users\ADMIN\Documents\DA\GV\GV\bin\Debug\GV.pdb
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.Form1.resources
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.Form2.resources
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.Form3.resources
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.Properties.Resources.resources
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.exe
+C:\Users\ADMIN\Documents\DA\GV\GV\obj\Debug\GV.pdb
